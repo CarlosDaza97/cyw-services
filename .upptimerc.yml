@@ -16,7 +16,7 @@ sites:
   - name: Servicios de integración APIs
     url: https://omsaloha.infotranscolombia.com/v1/Manu/StoreStatus/1
   - name: Captura de datos de clientes
-    url: https://facelectronica.domicilioscrepesywaffles.com.co
+    url: https://factelectronica.domicilioscrepesywaffles.com.co
     
 
 status-website:
