@@ -1,23 +1,30 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: CarlosDaza97 # Your GitHub organization or username, where this repository lives
+repo: cyw-services # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Agent Online Ordering - Bogotá
+    url: https://www.domicilioscrepesywaffles.com.co
+  - name: Agent Online Ordering - Barranquilla
+    url: https://caribe.domicilioscrepesywaffles.com.co
+  - name: Agent Online Ordering - Cali
+    url: https://maquite.domicilioscrepesywaffles.com.co
+  - name: Agent Online Ordering - Cartagena
+    url: https://cartagena.domicilioscrepesywaffles.com.co
+  - name: Integración Rappi/Aloha - Bogotá
+    url: https://cwmenu.infotranscolombia.com
+  - name: Servicios de integración APIs
+    url: https://omsaloha.infotranscolombia.com/v1/Manu/StoreStatus/1
+  - name: Captura de datos de clientes
+    url: https://facelectronica.domicilioscrepesywaffles.com.co
+    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  # cname: demo.upptime.js.org
+  baseUrl: /cyw-services
+  logoUrl: https://www.infotranscolombia.com/img/logo-light.png
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
