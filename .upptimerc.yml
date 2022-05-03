@@ -17,7 +17,6 @@ sites:
     url: https://omsaloha.infotranscolombia.com/v1/Manu/StoreStatus/1
   - name: Captura de datos de clientes
     url: https://factelectronica.domicilioscrepesywaffles.com.co
-    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -25,9 +24,9 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /cyw-services
   logoUrl: https://infotransgroup.com/wp-content/uploads/2018/06/Infotrans-logo-sm.png
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Upptime - CREPES & WAFFLES SERVICES by Infotrans Colombia
+  introTitle: "**Upptime** es el monitor de tiempo de actividad y estado de servicios web."
+  introMessage: Para notificar issues o incidentes contactar a **soporte@infotransgroup.com**.
   navbar:
     - title: Status
       href: /
