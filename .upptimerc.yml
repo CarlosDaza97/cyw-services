@@ -17,6 +17,9 @@ sites:
   - name: Captura de datos de clientes
     url: https://factelectronica.domicilioscrepesywaffles.com.co
 
+assignees: # Users to assign downtime issues
+  - CarlosDaza97
+
 status-website:
   # cname: demo.upptime.js.org
   baseUrl: /cyw-services
@@ -24,8 +27,6 @@ status-website:
   name: UPPTIME - CREPES & WAFFLES SERVICES by Infotrans Colombia
   introTitle: "**Upptime** es el monitor de tiempo de actividad y estado de servicios web."
   introMessage: Para notificar incidentes comunicarse al correo electrónico **soporte@infotransgroup.com**.
-  
-i18n:
-  footer: [Infotrans Colombia](https://infotranscolombia.com)
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
