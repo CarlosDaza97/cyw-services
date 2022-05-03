@@ -113,18 +113,16 @@
     "icon": "https://favicons.githubusercontent.com/factelectronica.domicilioscrepesywaffles.com.co",
     "slug": "captura-de-datos-de-clientes",
     "status": "up",
-    "uptime": "0.63%",
-    "uptimeDay": "0.63%",
-    "uptimeWeek": "0.63%",
-    "uptimeMonth": "0.63%",
-    "uptimeYear": "0.63%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 489,
     "timeDay": 489,
     "timeWeek": 489,
     "timeMonth": 489,
     "timeYear": 489,
-    "dailyMinutesDown": {
-      "2022-05-03": 11
-    }
+    "dailyMinutesDown": {}
   }
 ]
