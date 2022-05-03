@@ -23,8 +23,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /cyw-services
-  logoUrl: https://infotransgroup.com/wp-content/uploads/2018/06/Infotrans-logo-sm.png
-  name: Upptime - CREPES & WAFFLES SERVICES by Infotrans Colombia
+  logoUrl: https://upptime.js.org/img/icon.svg
+  name: UPPTIME - CREPES & WAFFLES SERVICES by Infotrans Colombia
   introTitle: "**Upptime** es el monitor de tiempo de actividad y estado de servicios web."
   introMessage: Para notificar issues o incidentes contactar a **soporte@infotransgroup.com**.
   navbar:
