@@ -24,11 +24,6 @@ status-website:
   name: UPPTIME - CREPES & WAFFLES SERVICES by Infotrans Colombia
   introTitle: "**Upptime** es el monitor de tiempo de actividad y estado de servicios web."
   introMessage: Para notificar incidentes comunicarse al correo electrónico **soporte@infotransgroup.com**.
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
