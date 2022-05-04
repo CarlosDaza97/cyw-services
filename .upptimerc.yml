@@ -28,5 +28,13 @@ status-website:
   introTitle: "**Upptime** es el monitor de tiempo de actividad y estado de servicios web."
   introMessage: Para notificar incidentes comunicarse al correo electrónico **soporte@infotransgroup.com**.
 
+workflowSchedule:
+  graphs: "0 10 * * *"
+  responseTime: "*/5 * * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/5 * * * *"
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
