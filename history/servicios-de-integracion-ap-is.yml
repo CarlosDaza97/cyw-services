@@ -1,7 +1,7 @@
 url: https://omsaloha.infotranscolombia.com/v1/Manu/StoreStatus/1
-status: down
-code: 503
-responseTime: 539
-lastUpdated: 2024-03-02T17:38:46.728Z
+status: up
+code: 200
+responseTime: 447
+lastUpdated: 2024-03-02T17:44:02.118Z
 startTime: 2022-05-03T02:14:41.000Z
 generator: Upptime <https://github.com/upptime/upptime>
