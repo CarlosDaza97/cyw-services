@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.domicilioscrepesywaffles.com.co.ico",
     "slug": "agent-online-ordering-bogota",
     "status": "up",
-    "uptime": "94.59%",
-    "uptimeDay": "90.38%",
-    "uptimeWeek": "98.63%",
-    "uptimeMonth": "61.26%",
-    "uptimeYear": "88.57%",
+    "uptime": "94.53%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "84.33%",
+    "uptimeMonth": "57.97%",
+    "uptimeYear": "88.30%",
     "time": 1375,
-    "timeDay": 1266,
-    "timeWeek": 950,
-    "timeMonth": 1359,
-    "timeYear": 1375,
+    "timeDay": 857,
+    "timeWeek": 955,
+    "timeMonth": 1343,
+    "timeYear": 1374,
     "dailyMinutesDown": {
-      "2026-03-29": 79,
+      "2026-03-30": 80,
+      "2026-03-29": 1440,
       "2026-03-28": 59,
       "2026-02-28": 1174,
       "2026-03-11": 1258,
@@ -87,8 +88,7 @@
       "2025-05-15": 83,
       "2025-04-29": 28,
       "2025-04-04": 29,
-      "2025-04-02": 28,
-      "2025-03-30": 68
+      "2025-04-02": 28
     }
   },
   {
@@ -97,15 +97,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/caribe.domicilioscrepesywaffles.com.co.ico",
     "slug": "agent-online-ordering-barranquilla",
     "status": "up",
-    "uptime": "83.55%",
+    "uptime": "83.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.20%",
-    "time": 1228,
-    "timeDay": 1045,
-    "timeWeek": 873,
-    "timeMonth": 1271,
+    "time": 1227,
+    "timeDay": 1049,
+    "timeWeek": 917,
+    "timeMonth": 1263,
     "timeYear": 1227,
     "dailyMinutesDown": {
       "2026-02-12": 92,
@@ -125,8 +125,7 @@
       "2025-05-19": 1440,
       "2025-05-18": 1029,
       "2025-05-15": 83,
-      "2025-04-04": 29,
-      "2025-03-30": 348
+      "2025-04-04": 29
     }
   },
   {
@@ -135,19 +134,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/maquite.domicilioscrepesywaffles.com.co.ico",
     "slug": "agent-online-ordering-cali",
     "status": "up",
-    "uptime": "80.04%",
+    "uptime": "79.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "4.67%",
-    "uptimeYear": "83.59%",
+    "uptimeMonth": "1.38%",
+    "uptimeYear": "83.32%",
     "time": 1178,
-    "timeDay": 897,
-    "timeWeek": 828,
-    "timeMonth": 1196,
-    "timeYear": 1178,
+    "timeDay": 911,
+    "timeWeek": 853,
+    "timeMonth": 1187,
+    "timeYear": 1177,
     "dailyMinutesDown": {
       "2026-02-12": 215,
-      "2026-03-29": 94,
+      "2026-03-30": 96,
+      "2026-03-29": 1440,
       "2026-03-28": 1440,
       "2026-03-27": 1440,
       "2026-03-26": 1440,
@@ -229,15 +229,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/cartagena.domicilioscrepesywaffles.com.co.ico",
     "slug": "agent-online-ordering-cartagena",
     "status": "up",
-    "uptime": "80.40%",
+    "uptime": "80.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "83.70%",
+    "uptimeYear": "83.89%",
     "time": 1124,
-    "timeDay": 950,
-    "timeWeek": 828,
-    "timeMonth": 1132,
+    "timeDay": 952,
+    "timeWeek": 853,
+    "timeMonth": 1126,
     "timeYear": 1123,
     "dailyMinutesDown": {
       "2026-02-12": 60,
@@ -308,8 +308,7 @@
       "2025-04-09": 1440,
       "2025-04-08": 1440,
       "2025-04-07": 197,
-      "2025-04-06": 40,
-      "2025-03-30": 214
+      "2025-04-06": 40
     }
   },
   {
@@ -318,10 +317,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/cwmenu.infotranscolombia.com.ico",
     "slug": "integracion-rappi-aloha-bogota",
     "status": "down",
-    "uptime": "42.56%",
+    "uptime": "42.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "4.67%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -329,7 +328,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-29": 110,
+      "2026-03-30": 111,
+      "2026-03-29": 1440,
       "2026-03-28": 1440,
       "2026-03-27": 1440,
       "2026-03-26": 1440,
@@ -692,8 +692,7 @@
       "2025-04-03": 1440,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
-      "2025-03-31": 1440,
-      "2025-03-30": 1440
+      "2025-03-31": 1440
     }
   },
   {
@@ -702,10 +701,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/omsaloha.infotranscolombia.com.ico",
     "slug": "servicios-de-integracion-ap-is",
     "status": "down",
-    "uptime": "48.42%",
+    "uptime": "48.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "4.67%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -713,7 +712,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-29": 118,
+      "2026-03-30": 120,
+      "2026-03-29": 1440,
       "2026-03-28": 1440,
       "2026-03-27": 1440,
       "2026-03-26": 1440,
@@ -1076,8 +1076,7 @@
       "2025-04-03": 1440,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
-      "2025-03-31": 1440,
-      "2025-03-30": 1440
+      "2025-03-31": 1440
     }
   },
   {
@@ -1086,18 +1085,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/factelectronica.domicilioscrepesywaffles.com.co.ico",
     "slug": "captura-de-datos-de-clientes",
     "status": "down",
-    "uptime": "19.03%",
+    "uptime": "19.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "4.67%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 657,
-    "timeDay": 661,
-    "timeWeek": 504,
-    "timeMonth": 690,
+    "time": 656,
+    "timeDay": 465,
+    "timeWeek": 507,
+    "timeMonth": 683,
     "timeYear": 656,
     "dailyMinutesDown": {
-      "2026-03-29": 126,
+      "2026-03-30": 128,
+      "2026-03-29": 1440,
       "2026-03-28": 1440,
       "2026-03-27": 1440,
       "2026-03-26": 1440,
@@ -1460,8 +1460,7 @@
       "2025-04-03": 1440,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
-      "2025-03-31": 1440,
-      "2025-03-30": 1440
+      "2025-03-31": 1440
     }
   }
 ]
