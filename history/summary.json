@@ -4,16 +4,16 @@
     "url": "https://www.domicilioscrepesywaffles.com.co",
     "icon": "https://icons.duckduckgo.com/ip3/www.domicilioscrepesywaffles.com.co.ico",
     "slug": "agent-online-ordering-bogota",
-    "status": "down",
-    "uptime": "94.61%",
-    "uptimeDay": "98.58%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.57%",
-    "uptimeYear": "88.18%",
+    "status": "up",
+    "uptime": "94.60%",
+    "uptimeDay": "89.90%",
+    "uptimeWeek": "98.56%",
+    "uptimeMonth": "99.28%",
+    "uptimeYear": "88.15%",
     "time": 1440,
-    "timeDay": 1160,
-    "timeWeek": 1150,
-    "timeMonth": 1160,
+    "timeDay": 1147,
+    "timeWeek": 1152,
+    "timeMonth": 1159,
     "timeYear": 1445,
     "dailyMinutesDown": {
       "2025-06-27": 105,
@@ -83,7 +83,7 @@
       "2026-03-29": 1440,
       "2026-03-28": 59,
       "2026-05-22": 168,
-      "2026-06-09": 20
+      "2026-06-09": 145
     }
   },
   {
@@ -91,16 +91,16 @@
     "url": "https://caribe.domicilioscrepesywaffles.com.co",
     "icon": "https://icons.duckduckgo.com/ip3/caribe.domicilioscrepesywaffles.com.co.ico",
     "slug": "agent-online-ordering-barranquilla",
-    "status": "down",
-    "uptime": "97.41%",
-    "uptimeDay": "98.49%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.57%",
-    "uptimeYear": "99.84%",
+    "status": "up",
+    "uptime": "97.40%",
+    "uptimeDay": "90.23%",
+    "uptimeWeek": "98.60%",
+    "uptimeMonth": "99.30%",
+    "uptimeYear": "99.81%",
     "time": 1284,
-    "timeDay": 1068,
-    "timeWeek": 1079,
-    "timeMonth": 1143,
+    "timeDay": 1049,
+    "timeWeek": 1080,
+    "timeMonth": 1140,
     "timeYear": 1286,
     "dailyMinutesDown": {
       "2025-06-27": 104,
@@ -116,7 +116,7 @@
       "2026-02-09": 121,
       "2026-02-12": 61,
       "2026-05-22": 168,
-      "2026-06-09": 22
+      "2026-06-09": 141
     }
   },
   {
@@ -124,14 +124,14 @@
     "url": "https://maquite.domicilioscrepesywaffles.com.co",
     "icon": "https://icons.duckduckgo.com/ip3/maquite.domicilioscrepesywaffles.com.co.ico",
     "slug": "agent-online-ordering-cali",
-    "status": "down",
+    "status": "up",
     "uptime": "77.38%",
-    "uptimeDay": "98.40%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "57.29%",
-    "uptimeYear": "69.32%",
+    "uptimeDay": "90.57%",
+    "uptimeWeek": "98.65%",
+    "uptimeMonth": "57.32%",
+    "uptimeYear": "69.29%",
     "time": 1225,
-    "timeDay": 1095,
+    "timeDay": 1081,
     "timeWeek": 1073,
     "timeMonth": 1066,
     "timeYear": 1226,
@@ -259,7 +259,7 @@
       "2026-02-14": 1440,
       "2026-02-13": 1440,
       "2026-02-12": 184,
-      "2026-06-09": 23
+      "2026-06-09": 136
     }
   },
   {
@@ -267,16 +267,16 @@
     "url": "https://cartagena.domicilioscrepesywaffles.com.co",
     "icon": "https://icons.duckduckgo.com/ip3/cartagena.domicilioscrepesywaffles.com.co.ico",
     "slug": "agent-online-ordering-cartagena",
-    "status": "down",
-    "uptime": "81.73%",
-    "uptimeDay": "98.31%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.56%",
-    "uptimeYear": "95.77%",
+    "status": "up",
+    "uptime": "81.72%",
+    "uptimeDay": "90.91%",
+    "uptimeWeek": "98.70%",
+    "uptimeMonth": "99.32%",
+    "uptimeYear": "95.75%",
     "time": 1162,
-    "timeDay": 1068,
+    "timeDay": 1045,
     "timeWeek": 1058,
-    "timeMonth": 1072,
+    "timeMonth": 1071,
     "timeYear": 1163,
     "dailyMinutesDown": {
       "2025-06-27": 103,
@@ -306,7 +306,7 @@
       "2026-02-09": 63,
       "2026-02-12": 60,
       "2026-05-22": 167,
-      "2026-06-09": 24
+      "2026-06-09": 131
     }
   },
   {
@@ -326,7 +326,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-09": 738,
+      "2026-06-09": 863,
       "2026-06-08": 1440,
       "2026-06-07": 1440,
       "2026-06-06": 1440,
@@ -710,7 +710,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-09": 745,
+      "2026-06-09": 870,
       "2026-06-08": 1440,
       "2026-06-07": 1440,
       "2026-06-06": 1440,
@@ -1089,12 +1089,12 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 677,
-    "timeDay": 400,
-    "timeWeek": 390,
+    "timeDay": 392,
+    "timeWeek": 391,
     "timeMonth": 396,
     "timeYear": 678,
     "dailyMinutesDown": {
-      "2026-06-09": 751,
+      "2026-06-09": 876,
       "2026-06-08": 1440,
       "2026-06-07": 1440,
       "2026-06-06": 1440,
