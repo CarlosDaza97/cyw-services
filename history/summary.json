@@ -9,12 +9,12 @@
     "uptimeDay": "98.06%",
     "uptimeWeek": "99.72%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "88.34%",
-    "time": 1627,
-    "timeDay": 1106,
-    "timeWeek": 1162,
-    "timeMonth": 1168,
-    "timeYear": 1635,
+    "uptimeYear": "88.43%",
+    "time": 1631,
+    "timeDay": 1058,
+    "timeWeek": 1147,
+    "timeMonth": 1166,
+    "timeYear": 1636,
     "dailyMinutesDown": {
       "2025-10-19": 334,
       "2025-10-18": 1440,
@@ -24,7 +24,6 @@
       "2025-10-14": 1440,
       "2025-10-13": 1440,
       "2025-10-12": 1440,
-      "2025-10-11": 1440,
       "2025-11-14": 26,
       "2025-12-28": 1362,
       "2025-12-27": 1440,
@@ -86,11 +85,11 @@
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.86%",
-    "time": 1434,
-    "timeDay": 1098,
-    "timeWeek": 1112,
-    "timeMonth": 1103,
-    "timeYear": 1442,
+    "time": 1438,
+    "timeDay": 1074,
+    "timeWeek": 1100,
+    "timeMonth": 1101,
+    "timeYear": 1443,
     "dailyMinutesDown": {
       "2025-10-19": 21,
       "2025-11-14": 26,
@@ -113,12 +112,12 @@
     "uptimeDay": "98.09%",
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "70.06%",
-    "time": 1356,
-    "timeDay": 1013,
-    "timeWeek": 1068,
-    "timeMonth": 1082,
-    "timeYear": 1362,
+    "uptimeYear": "70.15%",
+    "time": 1358,
+    "timeDay": 1018,
+    "timeWeek": 1059,
+    "timeMonth": 1080,
+    "timeYear": 1363,
     "dailyMinutesDown": {
       "2025-10-19": 334,
       "2025-10-18": 1440,
@@ -128,7 +127,6 @@
       "2025-10-14": 1440,
       "2025-10-13": 1440,
       "2025-10-12": 1440,
-      "2025-10-11": 1440,
       "2026-02-06": 83,
       "2026-02-11": 915,
       "2026-02-10": 1440,
@@ -249,11 +247,11 @@
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.88%",
-    "time": 1276,
-    "timeDay": 1005,
-    "timeWeek": 1082,
-    "timeMonth": 1074,
-    "timeYear": 1282,
+    "time": 1279,
+    "timeDay": 1022,
+    "timeWeek": 1078,
+    "timeMonth": 1072,
+    "timeYear": 1283,
     "dailyMinutesDown": {
       "2025-10-19": 20,
       "2026-02-06": 82,
@@ -272,7 +270,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cwmenu.infotranscolombia.com.ico",
     "slug": "integracion-rappi-aloha-bogota",
     "status": "down",
-    "uptime": "37.42%",
+    "uptime": "37.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -283,7 +281,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-10": 1122,
+      "2026-10-11": 177,
+      "2026-10-10": 1440,
       "2026-10-09": 1440,
       "2026-10-08": 1440,
       "2026-10-07": 1440,
@@ -646,8 +645,7 @@
       "2025-10-15": 1440,
       "2025-10-14": 1440,
       "2025-10-13": 1440,
-      "2025-10-12": 1440,
-      "2025-10-11": 1440
+      "2025-10-12": 1440
     }
   },
   {
@@ -656,7 +654,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/omsaloha.infotranscolombia.com.ico",
     "slug": "servicios-de-integracion-ap-is",
     "status": "down",
-    "uptime": "42.58%",
+    "uptime": "42.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -667,7 +665,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-10": 1125,
+      "2026-10-11": 181,
+      "2026-10-10": 1440,
       "2026-10-09": 1440,
       "2026-10-08": 1440,
       "2026-10-07": 1440,
@@ -1030,8 +1029,7 @@
       "2025-10-15": 1440,
       "2025-10-14": 1440,
       "2025-10-13": 1440,
-      "2025-10-12": 1440,
-      "2025-10-11": 1440
+      "2025-10-12": 1440
     }
   },
   {
@@ -1046,12 +1044,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 716,
-    "timeDay": 452,
-    "timeWeek": 413,
-    "timeMonth": 431,
+    "timeDay": 439,
+    "timeWeek": 410,
+    "timeMonth": 430,
     "timeYear": 717,
     "dailyMinutesDown": {
-      "2026-10-10": 1129,
+      "2026-10-11": 185,
+      "2026-10-10": 1440,
       "2026-10-09": 1440,
       "2026-10-08": 1440,
       "2026-10-07": 1440,
@@ -1414,8 +1413,7 @@
       "2025-10-15": 1440,
       "2025-10-14": 1440,
       "2025-10-13": 1440,
-      "2025-10-12": 1440,
-      "2025-10-11": 1440
+      "2025-10-12": 1440
     }
   }
 ]
